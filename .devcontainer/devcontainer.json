@@ -1,0 +1,8 @@
+{
+    "name": "Ubuntu DevContainer",
+    "image": "mcr.microsoft.com/devcontainers/base:jammy",
+    "features": {
+        "ghcr.io/shinepukur/devcontainer-features/vale:1": {},
+        "ghcr.io/devcontainers-extra/features/markdownlint-cli:1": {}
+    }
+}
